@@ -1,8 +1,11 @@
-<header class="h-12 flex justify-between items-center bg-blue-500 p-4">
-    <div class="flex w-1/6 mr-4">
-        <a href="#"
-            class="text-2xl md:text-2xl font-bold tracking-normal text-gray-900 rounded-lg focus:outline-none focus:shadow-outline">TopicsDict<span
-                style="color: #FF7F50;">.</span></a>
+<header class="h-12 flex justify-between items-center bg-blue-600 p-4">
+    <div class="flex w-40 mr-4">
+        <a href="#" class="pr-2 md:pr-3">
+            <img src="img/topicsdict logo.svg" alt="Contact" class="h-8 w-8 fill-current color">
+        </a>
+        <a href="#" class="pr-2 md:pr-5">
+            <img src="img/topicsdict.svg" alt="Contact" class="h-7 w-24 pt-1 fill-current color invert-0 hover:invert">
+        </a>
     </div>
 
     <div class="sm:w-2/4 w-1/3 relative mx-auto py-0 text-gray-600 bg-white flex justify-between rounded-full">
@@ -21,7 +24,7 @@
         </form>
     </div>
 
-    <div class="flex w-1/6 justify-end ">
+    <div class="flex w-36 justify-end ">
 
         <button type="submit" class="pr-2 md:pr-5">
             <img src="img/bell.svg" alt="Notifications" class="h-8 w-8 fill-current color invert hover:invert-0">

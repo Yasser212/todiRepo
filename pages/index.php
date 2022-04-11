@@ -7,6 +7,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="style.css" rel="stylesheet">
 </head>
+<style>
+.img-gradient::after {
+    display: block;
+    position: relative;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, rgb(0, 0, 0) 100%);
+    margin-top: -150px;
+    height: 150px;
+    width: 100%;
+    content: '';
+}
+</style>
 
 <body class="w-full h-screen overflow-hidden flex items-center justify-center" style="background: #edf2f7;">
     <div class="w-full flex h-screen bg-white">
