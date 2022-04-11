@@ -43,9 +43,13 @@
     <div class="w-full flex h-screen bg-white">
         <div class="flex-1 flex flex-col overflow-hidden">
             <?php include "partials/header.php"; ?>
-            <div class="flex h-full">
+            <div class="relative flex h-full">
                 <?php include "partials/sidebar.php";?>
-                <main class="w-full pt-36 flex flex-col overflow-x-hidden overflow-y-auto">
+                <main class="relative w-full flex flex-col overflow-x-hidden">
+
+                    <div class="sticky top-0 z-20 bg-white mb-4">
+                        <img class=" h-26 w-full m-auto pt-3 pb-0 px-3" src="img/adbanner.jpg" alt="ad photo">
+                    </div>
                     <?php include "partials/posts.php";?>
                     <?php include "partials/footer.php"; ?>
                 </main>

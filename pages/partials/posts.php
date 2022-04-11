@@ -1,5 +1,5 @@
 <div
-    class="rounded-lg shadow hover:shadow-lg grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-4 pb-4 px-4 mb-14">
+    class="z-10 rounded-lg shadow hover:shadow-lg grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-4 pb-4 px-4 mb-14">
 
     <div
         class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-2">
