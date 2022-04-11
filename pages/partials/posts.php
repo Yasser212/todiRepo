@@ -1,11 +1,11 @@
 <div
-    class="rounded-lg shadow hover:shadow-lg grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-4 pb-4 px-4">
+    class="rounded-lg shadow hover:shadow-lg grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-4 pb-4 px-4 mb-14">
 
     <div
         class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-2">
         <a target="_blank" rel="website" href="https://google.com">
             <div class="relative img-gradient">
-                <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\(1).jpg"
+                <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
@@ -337,7 +337,7 @@
         class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-2">
         <a target="_blank" rel="website" href="https://google.com">
             <div class="relative img-gradient">
-                <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\(1).jpg"
+                <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
@@ -669,7 +669,7 @@
         class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-2">
         <a target="_blank" rel="website" href="https://google.com">
             <div class="relative img-gradient">
-                <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\(1).jpg"
+                <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
                     alt="uploaded cover image">
             </div>
         </a>

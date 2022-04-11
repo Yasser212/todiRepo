@@ -17,26 +17,7 @@
     width: 100%;
     content: '';
 }
-</style>
 
-<body class="w-full h-screen overflow-hidden flex items-center justify-center" style="background: #edf2f7;">
-    <div class="w-full flex h-screen bg-white">
-        <div class="flex-1 flex flex-col overflow-hidden">
-            <?php include "partials/header.php"; ?>
-            <div class="flex h-full">
-                <?php include "partials/sidebar.php";?>
-                <main class="w-full pt-36 flex flex-col overflow-x-hidden overflow-y-auto mb-14">
-                    <?php include "partials/posts.php";?>
-                    <?php include "partials/footer.php"; ?>
-                </main>
-                <?php include "partials/rightbar.php";?>
-            </div>
-        </div>
-    </div>
-</body>
-<?php include "partials/sripts.php";?>
-
-<style>
 ::-webkit-scrollbar {
     width: 10px;
     height: 10px;
@@ -56,6 +37,24 @@
     box-shadow: inset 7px 10px 12px #f0f0f0;
 }
 </style>
+
+<body class="w-full h-screen overflow-hidden flex items-center justify-center" style="background: #edf2f7;">
+    <div class="w-full flex h-screen bg-white">
+        <div class="flex-1 flex flex-col overflow-hidden">
+            <?php include "partials/header.php"; ?>
+            <div class="flex h-full">
+                <?php include "partials/sidebar.php";?>
+                <main class="w-full pt-36 flex flex-col overflow-x-hidden overflow-y-auto">
+                    <?php include "partials/posts.php";?>
+                    <?php include "partials/footer.php"; ?>
+                </main>
+                <?php include "partials/rightbar.php";?>
+            </div>
+        </div>
+    </div>
+</body>
+<?php include "partials/scripts.php";?>
+
 </body>
 
 </html>

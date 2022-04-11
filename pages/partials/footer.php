@@ -10,7 +10,7 @@
                     </p>
                     <div class="my-3">
 
-                        <a href="https://github.com/ahampriyanshu"
+                        <a href="https://github.com/Yasser212"
                             class="h-8 w-8 rounded-full outline-none focus:outline-none" type="button">
                             <svg class="fill-current cursor-pointer text-white hover:text-gray-600" width="24"
                                 height="24" viewBox="0 0 24 24">
@@ -19,8 +19,8 @@
                             </svg>
                         </a>
 
-                        <a class="h-8 w-8 rounded-full outline-none focus:outline-none"
-                            href="https://www.linkedin.com/in/ahampriyanshu/" type="button">
+                        <a class="h-8 w-8 rounded-full outline-none focus:outline-none" href="https://www.linkedin.com"
+                            type="button">
                             <svg class="fill-current cursor-pointer text-gray-200 hover:text-gray-600" width="24"
                                 height="24" viewBox="0 0 24 24">
                                 <path
@@ -28,8 +28,8 @@
                             </svg>
                         </a>
 
-                        <a class=" h-8 w-8 rounded-full outline-none focus:outline-none"
-                            href="https://wa.me/919917956610?text=Hi%20Priyanshu" type="button">
+                        <a class=" h-8 w-8 rounded-full outline-none focus:outline-none" href="https://wa.me"
+                            type="button">
                             <svg class="fill-current cursor-pointer text-gray-200 hover:text-gray-600" width="24"
                                 height="24" viewBox="0 0 24 24">
                                 <path
@@ -38,7 +38,7 @@
                         </a>
 
                         <a class=" h-8 w-8 rounded-full outline-none focus:outline-none"
-                            href="mailto:ahampriyanshu@gmail.com?subject=Hello" type="button">
+                            href="mailto:yasseralsayed@gmx.de?subject=Hello" type="button">
                             <svg class="fill-current cursor-pointer text-gray-200 hover:text-gray-600" width="24"
                                 height="24" viewBox="0 0 24 24">
                                 <path
@@ -46,8 +46,8 @@
                             </svg>
                         </a>
 
-                        <a class=" h-8 w-8 rounded-full outline-none focus:outline-none"
-                            href="https://twitter.com/ahampriyanshu" type="button">
+                        <a class=" h-8 w-8 rounded-full outline-none focus:outline-none" href="https://twitter.com"
+                            type="button">
                             <svg class="fill-current cursor-pointer text-gray-200 hover:text-gray-600" width="24"
                                 height="24" viewBox="0 0 24 24">
                                 <path
@@ -56,7 +56,7 @@
                         </a>
 
                         <a class=" h-8 w-8 rounded-full outline-none focus:outline-none"
-                            href="https://www.instagram.com/ahampriyanshu/" type="button">
+                            href="https://www.instagram.com" type="button">
                             <svg class="fill-current cursor-pointer text-gray-200 hover:text-gray-600" width="24"
                                 height="24" viewBox="0 0 24 24">
                                 <path
@@ -64,8 +64,8 @@
                             </svg>
                         </a>
 
-                        <a class=" h-8 w-8 rounded-full outline-none focus:outline-none"
-                            href="https://www.reddit.com/user/ahampriyanshu" type="button">
+                        <a class=" h-8 w-8 rounded-full outline-none focus:outline-none" href="https://www.reddit.com"
+                            type="button">
                             <svg class="fill-current cursor-pointer text-gray-200 hover:text-gray-600" width="24"
                                 height="24" viewBox="0 0 24 24">
                                 <path

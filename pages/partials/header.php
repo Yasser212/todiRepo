@@ -11,9 +11,9 @@
     <div class="sm:w-2/4 w-1/3 relative mx-auto py-0 text-gray-600 bg-white flex justify-between rounded-full">
         <form class="w-full" action="/search" method="get">
             <input name="q" id="search" type="text" placeholder="Search..." placeholder="Search"
-                class="bg-white w-full h-9 px-4 md:px-4 rounded-lg text-sm placeholder-green-600 focus:outline-none">
+                class="bg-white w-full h-9 px-4 md:px-4 rounded-lg text-sm placeholder-blue-600 focus:outline-none">
             <button type="submit" class="absolute right-0 top-0 mt-2 mr-4">
-                <svg class="h-4 w-4 fill-current text-green-600" xmlns="http://www.w3.org/2000/svg"
+                <svg class="h-4 w-4 fill-current text-blue-600" xmlns="http://www.w3.org/2000/svg"
                     xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Capa_1" x="0px" y="0px"
                     viewBox="0 0 56.966 56.966" style="enable-background:new 0 0 56.966 56.966;" xml:space="preserve"
                     width="512px" height="512px">
