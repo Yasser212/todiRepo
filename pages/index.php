@@ -48,7 +48,8 @@
                 <main class="relative w-full flex flex-col overflow-x-hidden">
 
                     <div class="sticky top-0 z-20 bg-white mb-4">
-                        <img class=" h-26 w-full m-auto pt-3 pb-0 px-3" src="img/adbanner.jpg" alt="ad photo">
+                        <a href="#"><img class=" h-26 w-full m-auto lg:mt-5 pb-0 lg:px-6" src="img/adbanner.jpg"
+                                alt="ad photo"></a>
                     </div>
                     <?php include "partials/posts.php";?>
                     <?php include "partials/footer.php"; ?>
