@@ -1,4 +1,4 @@
-    <footer class="font-sans bg-gray-800 relative pt-5 pb-3 md:pb-6">
+    <footer class="font-sans bg-gray-800 relative pt-5  md:pb-14">
         <div class="container mx-auto px-4">
             <div class="flex flex-wrap">
                 <div class="flex w-full md:w-1/2">
@@ -130,7 +130,7 @@
                     </div>
                 </div>
             </div>
-            <hr class="my-3 md:my-6 border-gray-400" />
+            <hr class="my-3 md:my-1 border-gray-400" />
             <div class="flex flex-wrap items-center md:justify-between justify-center">
                 <div class="w-full md:w-4/12 px-4 mx-auto text-center">
                     <div class="text-sm text-gray-200 py-1">
@@ -141,5 +141,4 @@
                 </div>
             </div>
         </div>
-        >>>>>>> 92b233140006e27daafe2877f6e2df0dceeb8217
     </footer>

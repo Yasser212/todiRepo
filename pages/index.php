@@ -40,14 +40,14 @@
 </style>
 
 <body class="w-full h-screen overflow-hidden flex items-center justify-center" style="background: #edf2f7;">
-    <div class="w-full flex h-screen bg-white">
+    <div class="w-full flex h-screen bg-gray-50">
         <div class="flex-1 flex flex-col overflow-hidden">
             <?php include "partials/header.php"; ?>
             <div class="relative flex h-full">
                 <?php include "partials/sidebar.php";?>
                 <main class="relative w-full flex flex-col overflow-x-hidden">
 
-                    <div class="sticky top-0 z-20 bg-white mb-4">
+                    <div class="sticky top-0 z-20 bg-gray-50 mb-4">
                         <a href="#"><img class="h-26 w-full m-auto lg:mt-5 pb-0 lg:px-6" src="img/adbanner.jpg"
                                 alt="ad photo"></a>
                     </div>

@@ -1,7 +1,10 @@
 <nav class="w-96 mt-5 bg-gray-200 md:block hidden rounded-tl-lg">
+
+    <!-- top author  -->
     <div class="rounded-l-lg text-center pb-3 bg-gray-800 text-xl text-white w-full h-9 pt-1">
         <a class="font-serif" href="#">كبار المؤلفين</a>
     </div>
+
     <div class="hover:overflow-y-scroll overflow-hidden h-44">
         <div class="w-full flex m-2 pb-3 border-gray-600 border-dotted border-b-2">
             <a class="mt-2 ml-1 h-11 w-11" href="#"><img class="rounded-md" src="img/1623336590_102938104_l.jpg"
@@ -22,13 +25,7 @@
                     <a href="#">
                         <div class="flex">
                             <p class="text-red-700">2.3 </p>
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-red-700 ml-1 mr-1" role="img" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                            </svg>
+                            <?php include "partials/star_svg.php"?>
                         </div>
                     </a>
                 </div>
@@ -53,13 +50,7 @@
                     <a href="#">
                         <div class="flex">
                             <p class="text-red-700">4.1 </p>
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-red-700 ml-1 mr-1" role="img" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                            </svg>
+                            <?php include "partials/star_svg.php"?>
                         </div>
                     </a>
                 </div>
@@ -83,13 +74,7 @@
                     <a href="#">
                         <div class="flex">
                             <p class="text-red-700">3.8 </p>
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-red-700 ml-1 mr-1" role="img" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                            </svg>
+                            <?php include "partials/star_svg.php"?>
                         </div>
                     </a>
                 </div>
@@ -114,13 +99,7 @@
                     <a href="#">
                         <div class="flex">
                             <p class="text-red-700">4.6 </p>
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-red-700 ml-1 mr-1" role="img" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                            </svg>
+                            <?php include "partials/star_svg.php"?>
                         </div>
                     </a>
                 </div>
@@ -128,11 +107,12 @@
         </div>
     </div>
 
+    <!-- top articles -->
     <div class="rounded-l-lg text-center pb-3 bg-gray-800 text-xl text-white w-full h-9 pt-1">
         <a class="font-serif" href="#">أهم المقالات</a>
     </div>
-    <div class="hover:overflow-y-scroll overflow-hidden h-44">
 
+    <div class="hover:overflow-y-scroll overflow-hidden h-44">
         <div class="w-full flex m-2 pb-3 border-gray-600 border-dotted border-b-2">
             <a class="mt-2 ml-1 h-11 w-11" href="#"><img class="" src="img/photoicon.png" alt="photo"></a>
             <div class="text-sm w-full pl-4 text-left">
@@ -151,13 +131,7 @@
                     <a href="#">
                         <div class="flex">
                             <p class="text-red-700">3.8 </p>
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-red-700 ml-1 mr-1" role="img" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                            </svg>
+                            <?php include "partials/star_svg.php"?>
                         </div>
                     </a>
                 </div>
@@ -181,13 +155,7 @@
                     <a href="#">
                         <div class="flex">
                             <p class="text-red-700">4.2 </p>
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-red-700 ml-1 mr-1" role="img" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                            </svg>
+                            <?php include "partials/star_svg.php"?>
                         </div>
                     </a>
                 </div>
@@ -210,13 +178,7 @@
                     <a href="#">
                         <div class="flex">
                             <p class="text-red-700">3.4 </p>
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-red-700 ml-1 mr-1" role="img" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                            </svg>
+                            <?php include "partials/star_svg.php"?>
                         </div>
                     </a>
                 </div>
@@ -240,13 +202,7 @@
                     <a href="#">
                         <div class="flex">
                             <p class="text-red-700">4.5 </p>
-                            <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star"
-                                class="w-4 text-red-700 ml-1 mr-1" role="img" xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 576 512">
-                                <path fill="currentColor"
-                                    d="M259.3 17.8L194 150.2 47.9 171.5c-26.2 3.8-36.7 36.1-17.7 54.6l105.7 103-25 145.5c-4.5 26.3 23.2 46 46.4 33.7L288 439.6l130.7 68.7c23.2 12.2 50.9-7.4 46.4-33.7l-25-145.5 105.7-103c19-18.5 8.5-50.8-17.7-54.6L382 150.2 316.7 17.8c-11.7-23.6-45.6-23.9-57.4 0z">
-                                </path>
-                            </svg>
+                            <?php include "partials/star_svg.php"?>
                         </div>
                     </a>
                 </div>
@@ -254,6 +210,7 @@
         </div>
     </div>
 
+    <!-- ad banner below -->
     <div class="">
         <a href="#"><img class=" h-26 w-full mb-12 mt-0" src="img/adbanner 2.jpg" alt="ad photo"></a>
     </div>

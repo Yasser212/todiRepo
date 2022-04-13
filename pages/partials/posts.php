@@ -1,7 +1,7 @@
-<div class="z-10 rounded-lg grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-5 pb-4 px-8 mb-14 mt-2">
+<div
+    class="bg-gray-50 z-10 rounded-lg grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-5 pb-4 px-8 mb-14 mt-2">
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1 ">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
@@ -40,8 +40,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
@@ -77,8 +76,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
@@ -114,8 +112,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
@@ -151,8 +148,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
@@ -188,8 +184,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
@@ -225,8 +220,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
@@ -262,8 +256,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
@@ -299,8 +292,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
@@ -336,8 +328,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
@@ -373,8 +364,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
@@ -410,8 +400,7 @@
         </div>
     </div>
 
-    <div
-        class="relative bg-white shadow-xl rounded-lg hover:bottom-1 hover:left-1 hover:border-gray-300 hover:border-b-2">
+    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
         <a rel="website" href="#">
             <div class="relative img-gradient">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
