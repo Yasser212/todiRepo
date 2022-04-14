@@ -1,3 +1,30 @@
 @tailwind base;
 @tailwind components;
+
+.card{
+    @apply relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1;
+}
+
+.img-gradient::after {
+    display: block;
+    position: relative;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, rgb(0, 0, 0) 100%);
+    margin-top: -150px;
+    height: 150px;
+    width: 100%;
+    content: '';
+}
+
+.card_img_layout{
+    @apply relative img-gradient duration-700 hover:brightness-75;
+}
+
+.card_img{
+    @apply object-cover h-full rounded-lg rounded-b-none;
+}
+
+.card_article_title{
+    @apply relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right;
+}
+
 @tailwind utilities;

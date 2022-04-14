@@ -1,15 +1,14 @@
 <div
     class="bg-gray-50 z-10 rounded-lg grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-2 xl:grid-cols-3 gap-5 pb-4 px-8 mb-14 mt-2">
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1 ">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
-                <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
-                    alt="uploaded cover image">
+            <div class="card_img_layout">
+                <img class="card_img" src="..\pages\posts_img\img(8).jpg" alt="uploaded cover image">
             </div>
         </a>
         <a href="#">
-            <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+            <p class="card_article_title">
                 هل الطاقة البديلة هي الحل؟
             </p>
         </a>
@@ -40,14 +39,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             نصائح للعاملين من المنزل
         </p>
 
@@ -76,14 +75,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             Nature and its Secrets
         </p>
 
@@ -112,14 +111,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             أهم الوجهات السياحية في 2022
         </p>
 
@@ -148,14 +147,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             هل الطاقة البديلة هي الحل؟
         </p>
 
@@ -184,14 +183,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             نصائح للعاملين من المنزل
         </p>
 
@@ -220,14 +219,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             Nature and its Secrets
         </p>
 
@@ -256,14 +255,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             أهم الوجهات السياحية في 2022
         </p>
 
@@ -292,14 +291,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             هل الطاقة البديلة هي الحل؟
         </p>
 
@@ -328,14 +327,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             نصائح للعاملين من المنزل
         </p>
 
@@ -364,14 +363,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             Nature and its Secrets
         </p>
 
@@ -400,14 +399,14 @@
         </div>
     </div>
 
-    <div class="relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1">
+    <div class="card">
         <a rel="website" href="#">
-            <div class="relative img-gradient">
+            <div class="card_img_layout">
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
                     alt="uploaded cover image">
             </div>
         </a>
-        <p class="relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right ">
+        <p class="card_article_title">
             أهم الوجهات السياحية في 2022
         </p>
 
@@ -435,18 +434,4 @@
             </a>
         </div>
     </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>

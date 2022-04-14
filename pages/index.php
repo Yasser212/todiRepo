@@ -9,16 +9,6 @@
 </head>
 
 <style>
-.img-gradient::after {
-    display: block;
-    position: relative;
-    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0, rgb(0, 0, 0) 100%);
-    margin-top: -150px;
-    height: 150px;
-    width: 100%;
-    content: '';
-}
-
 ::-webkit-scrollbar {
     width: 10px;
     height: 10px;
