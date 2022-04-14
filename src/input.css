@@ -2,7 +2,12 @@
 @tailwind components;
 
 .card{
-    @apply relative bg-white shadow-lg rounded-lg hover:shadow-xl hover:bottom-1;
+    @apply relative bg-white shadow-lg rounded-lg duration-500 ease-in-out hover:shadow-slate-300 hover:shadow-xl;
+}
+
+.card:hover .card_img_layout{
+    transform: translateY(-8px);
+    filter: brightness(.75);
 }
 
 .img-gradient::after {
@@ -16,7 +21,7 @@
 }
 
 .card_img_layout{
-    @apply relative img-gradient duration-700 hover:brightness-75;
+    @apply relative img-gradient transition duration-500 ease-in-out;
 }
 
 .card_img{

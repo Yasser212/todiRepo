@@ -1,10 +1,11 @@
-<header class="h-12 flex justify-between items-center bg-blue-600 p-4">
+<header style="height: 52px;" class="flex justify-between items-center bg-blue-600 p-4">
     <div class="flex w-40 mr-4">
         <a href="#" class="pr-2 md:pr-3">
             <img src="img/topicsdict logo.svg" alt="Contact" class="h-8 w-8 fill-current color">
         </a>
         <a href="#" class="pr-2 md:pr-5">
-            <img src="img/topicsdict.svg" alt="Contact" class="h-7 w-24 pt-1 fill-current color invert-0 hover:invert">
+            <img src="img/topicsdict.svg" alt="Contact"
+                class="h-7 w-24 pt-1 fill-current color duration-500 invert-0 hover:invert">
         </a>
     </div>
 
@@ -27,15 +28,18 @@
     <div class="flex w-36 justify-end ">
 
         <button type="submit" class="pr-2 md:pr-5">
-            <img src="img/bell.svg" alt="Notifications" class="h-8 w-8 fill-current color invert hover:invert-0">
+            <img src="img/bell.svg" alt="Notifications"
+                class="h-8 w-8 fill-current color invert duration-500 hover:invert-0">
         </button>
 
         <button type="submit" class="pr-2 md:pr-5">
-            <img src="img/star.svg" alt="Favorite" class="h-8 w-8 fill-current color invert hover:invert-0">
+            <img src="img/star.svg" alt="Favorite"
+                class="h-8 w-8 fill-current color invert duration-500  hover:invert-0">
         </button>
 
         <button type="submit" class="pr-2 md:pr-5">
-            <img src="img/Contact.svg" alt="Contact" class="h-8 w-8 fill-current color invert hover:invert-0">
+            <img src="img/Contact.svg" alt="Contact"
+                class="h-8 w-8 fill-current color invert duration-500 hover:invert-0">
         </button>
 
     </div>

@@ -4,11 +4,11 @@
                 <div class="flex w-full md:w-1/2">
                     <div class="text-2xl px-8">
                         <h3 class="font-bold text-white">TopicsDict<span style="color: #FF7F50;">.</span></h3>
-                        <p class="py-4 text-white text-sm">
+                        <p class="pt-4 pb-8 mb-6 text-white text-sm">
                             News is something someone somewhere wants to suppress, all the rest is
                             advertising.
                         </p>
-                        <div class="my-3">
+                        <div class="pt-6">
 
                             <a href="https://github.com/Yasser212"
                                 class="h-8 w-8 rounded-full outline-none focus:outline-none" type="button">
@@ -76,7 +76,7 @@
                     </div>
                 </div>
 
-                <div class="w-full lg:w-6/12 px-4">
+                <div class="w-full lg:w-6/12 px-8">
                     <div class="flex flex-wrap items-top">
                         <div class="w-full lg:w-4/12  px-4 ml-auto">
                             <h3 class="font-bold text-sm text-gray-100 mb-2">Outlets</h3>
