@@ -6,8 +6,6 @@
             <div class="card_img_layout">
                 <img class="card_img" src="..\pages\posts_img\img(8).jpg" alt="uploaded cover image">
             </div>
-        </a>
-        <a href="#">
             <p class="card_article_title">
                 هل الطاقة البديلة هي الحل؟
             </p>
@@ -45,10 +43,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                نصائح للعاملين من المنزل
+            </p>
         </a>
-        <p class="card_article_title">
-            نصائح للعاملين من المنزل
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -81,10 +79,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                Nature and its Secrets
+            </p>
         </a>
-        <p class="card_article_title">
-            Nature and its Secrets
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -117,10 +115,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                أهم الوجهات السياحية في 2022
+            </p>
         </a>
-        <p class="card_article_title">
-            أهم الوجهات السياحية في 2022
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -153,10 +151,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                هل الطاقة البديلة هي الحل؟
+            </p>
         </a>
-        <p class="card_article_title">
-            هل الطاقة البديلة هي الحل؟
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -189,10 +187,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                نصائح للعاملين من المنزل
+            </p>
         </a>
-        <p class="card_article_title">
-            نصائح للعاملين من المنزل
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -225,10 +223,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                Nature and its Secrets
+            </p>
         </a>
-        <p class="card_article_title">
-            Nature and its Secrets
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -261,10 +259,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                أهم الوجهات السياحية في 2022
+            </p>
         </a>
-        <p class="card_article_title">
-            أهم الوجهات السياحية في 2022
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -297,10 +295,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(8).jpg"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                هل الطاقة البديلة هي الحل؟
+            </p>
         </a>
-        <p class="card_article_title">
-            هل الطاقة البديلة هي الحل؟
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -333,10 +331,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(1).png"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                نصائح للعاملين من المنزل
+            </p>
         </a>
-        <p class="card_article_title">
-            نصائح للعاملين من المنزل
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -369,10 +367,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(4).jpg"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                Nature and its Secrets
+            </p>
         </a>
-        <p class="card_article_title">
-            Nature and its Secrets
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
@@ -405,10 +403,10 @@
                 <img class="object-cover h-full rounded-lg rounded-b-none" src="..\pages\posts_img\img(5).jpg"
                     alt="uploaded cover image">
             </div>
+            <p class="card_article_title">
+                أهم الوجهات السياحية في 2022
+            </p>
         </a>
-        <p class="card_article_title">
-            أهم الوجهات السياحية في 2022
-        </p>
 
         <div class="flex justify-between p-4">
             <a rel="website" href="#">
