@@ -10,6 +10,14 @@
     filter: brightness(.75);
 }
 
+.card_img_layout{
+    @apply relative img-gradient transition duration-500 ease-in-out;
+}
+
+.card_img{
+    @apply object-cover max-h-40 w-full rounded-lg rounded-b-none;
+}   
+
 .img-gradient::after {
     display: block;
     position: relative;
@@ -20,16 +28,19 @@
     content: '';
 }
 
-.card_img_layout{
-    @apply relative img-gradient transition duration-500 ease-in-out;
-}
-
-.card_img{
-    @apply object-cover h-full rounded-lg rounded-b-none;
-}
-
 .card_article_title{
-    @apply relative bottom-4 bg-black p-2 text-white font-bold text-xl w-full text-right;
+    @apply relative bottom-4 bg-black px-3 pb-2 text-white font-bold text-xl w-full text-right;
 }
 
+.author_name{
+    @apply text-black font-bold text-base w-full;
+}
+
+.author_jobtitle{
+    @apply text-gray-700 w-fit pr-2 pb-2;
+}
+
+.author_img{
+    @apply h-12 w-12 rounded-full mt-1 mr-2;
+}
 @tailwind utilities;

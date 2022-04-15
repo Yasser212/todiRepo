@@ -1,4 +1,4 @@
-<ul class="flex justify-start mb-4">
+<ul class="flex justify-start pb-3 align-middle">
     <li>
         <svg aria-hidden="true" focusable="false" data-prefix="fas" data-icon="star" class="w-4 text-yellow-500 mr-1"
             role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512">
