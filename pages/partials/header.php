@@ -1,7 +1,7 @@
 <header style="height: 52px;" class="flex justify-between items-center bg-blue-600 p-4">
     <div class="flex w-40 mr-4">
         <a href="#" class="pr-2 md:pr-3">
-            <img src="img/topicsdict logo.svg" alt="Contact" class="h-8 w-8 fill-current color">
+            <img src="img/topicsdict Logo.svg" alt="Contact" class="h-8 w-8 fill-current color">
         </a>
         <a href="#" class="pr-2 md:pr-5">
             <img src="img/topicsdict.svg" alt="Contact"

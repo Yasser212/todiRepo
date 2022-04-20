@@ -66,7 +66,7 @@
             </div>
 
             <div class="flex justify-start">
-                <a class="mr-2" href="#"><img class="author_img" src="img/auther.jpg" alt="photo"></a>
+                <a class="mr-2" href="#"><img class="author_img" src="img/g2-testimonial-male.jpg" alt="photo"></a>
                 <ul class="w-full">
                     <li>
                         <a href="">
@@ -108,7 +108,7 @@
             </div>
 
             <div class="flex justify-start">
-                <a class="mr-2" href="#"><img class="author_img" src="img/auther.jpg" alt="photo"></a>
+                <a class="mr-2" href="#"><img class="author_img" src="img/test24-4.jpg" alt="photo"></a>
                 <ul class="w-full">
                     <li>
                         <a href="">
