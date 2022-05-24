@@ -11,7 +11,7 @@
 
     <div class="sm:w-2/4 w-1/3 relative mx-auto py-0 text-gray-600 bg-white flex justify-between rounded-full">
         <form class="w-full" action="/search" method="get">
-            <input name="q" id="search" type="text" placeholder="Search..." placeholder="Search"
+            <input name="q" id="search" type="text" placeholder="Search..."
                 class="bg-white w-full h-9 px-4 md:px-4 rounded-lg text-sm placeholder-blue-600 focus:outline-none">
             <button type="submit" class="absolute right-0 top-0 mt-2 mr-4">
                 <svg class="h-4 w-4 fill-current text-blue-600" xmlns="http://www.w3.org/2000/svg"

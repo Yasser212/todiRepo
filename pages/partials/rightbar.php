@@ -211,8 +211,8 @@
     </div>
 
     <!-- ad banner below -->
-    <div class="">
-        <a href="#"><img class=" h-26 w-full mb-12 mt-0" src="img/adbanner 2.jpg" alt="ad photo"></a>
+    <div class="mr-2">
+        <a href="#"><img class=" h-26 w-full mb-12 mt-0 mr-2" src="img/adbanner 2.jpg" alt="ad photo"></a>
     </div>
 
 </nav>
